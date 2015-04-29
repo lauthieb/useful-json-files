@@ -1,0 +1,521 @@
+[{
+    "numero": "01",
+    "nom": "Ain",
+    "latitude": "46.2049630980487",
+    "longitude": " 5.22580146789551"
+}, {
+    "numero": "02",
+    "nom": "Aisne",
+    "latitude": "49.5473",
+    "longitude": "3.59423"
+}, {
+    "numero": "03",
+    "nom": "Allier",
+    "latitude": "46.5661",
+    "longitude": "3.33534"
+}, {
+    "numero": "04",
+    "nom": "Alpes de Haute Provence",
+    "latitude": "44.091",
+    "longitude": "6.23148"
+}, {
+    "numero": "05",
+    "nom": "Alpes (Hautes)",
+    "latitude": "44.56014191304745",
+    "longitude": "6.079816818237305"
+}, {
+    "numero": "06",
+    "nom": "Alpes Maritimes",
+    "latitude": "43.7169",
+    "longitude": "7.25451"
+}, {
+    "numero": "07",
+    "nom": "Ardèche",
+    "latitude": "44.7346",
+    "longitude": "4.59888"
+}, {
+    "numero": "08",
+    "nom": "Ardennes",
+    "latitude": "49.76252796566851",
+    "longitude": "4.72163200378418"
+}, {
+    "numero": "09",
+    "nom": "Ariège",
+    "latitude": "42.964",
+    "longitude": "1.60708"
+}, {
+    "numero": "10",
+    "nom": "Aube",
+    "latitude": "48.2936",
+    "longitude": "4.07627"
+}, {
+    "numero": "11",
+    "nom": "Aude",
+    "latitude": "43.2129330827919",
+    "longitude": "2.35330581665039"
+}, {
+    "numero": "12",
+    "nom": "Aveyron",
+    "latitude": "44.3509",
+    "longitude": "2.57351"
+}, {
+    "numero": "13",
+    "nom": "Bouches du Rhône",
+    "latitude": "43.2909512722675",
+    "longitude": "5.38252830505371"
+}, {
+    "numero": "14",
+    "nom": "Calvados",
+    "latitude": "49.1850695303669",
+    "longitude": "0.359201431274414"
+}, {
+    "numero": "15",
+    "nom": "Cantal",
+    "latitude": "44.9279237424307",
+    "longitude": "2.4433422088623"
+}, {
+    "numero": "16",
+    "nom": "Charente",
+    "latitude": "45.6479483740623",
+    "longitude": "0.16179084777832"
+}, {
+    "numero": "17",
+    "nom": "Charente Maritime",
+    "latitude": "46.1601",
+    "longitude": "-1.17755"
+}, {
+    "numero": "18",
+    "nom": "Cher",
+    "latitude": "47.0829813665985",
+    "longitude": "2.39544868469238"
+}, {
+    "numero": "19",
+    "nom": "Corrèze",
+    "latitude": "45.2804",
+    "longitude": "1.7722"
+}, {
+    "numero": "21",
+    "nom": "Côte-d'Or",
+    "latitude": "47.3346",
+    "longitude": "5.03242"
+}, {
+    "numero": "22",
+    "nom": "Côtes d'armor",
+    "latitude": "48.5112",
+    "longitude": "-2.76392"
+}, {
+    "numero": "23",
+    "nom": "Creuse",
+    "latitude": "46.169599",
+    "longitude": "1.871452"
+}, {
+    "numero": "24",
+    "nom": "Dordogne",
+    "latitude": "45.1929",
+    "longitude": "0.70593"
+}, {
+    "numero": "25",
+    "nom": "Doubs",
+    "latitude": "47.2431142246408",
+    "longitude": "6.02634429931641"
+}, {
+    "numero": "26",
+    "nom": "Drôme",
+    "latitude": "44.9234",
+    "longitude": "4.91598"
+}, {
+    "numero": "27",
+    "nom": "Eure",
+    "latitude": "49.02790765858634",
+    "longitude": "1.151418685913086"
+}, {
+    "numero": "28",
+    "nom": "Eure et Loir",
+    "latitude": "48.4441",
+    "longitude": "1.50696"
+}, {
+    "numero": "29",
+    "nom": "Finistère",
+    "latitude": "47.9979",
+    "longitude": "-4.09889"
+}, {
+    "numero": "30",
+    "nom": "Gard",
+    "latitude": "43.836699",
+    "longitude": "4.360054"
+}, {
+    "numero": "31",
+    "nom": "Garonne (Haute)",
+    "latitude": "43.6041",
+    "longitude": "1.43483"
+}, {
+    "numero": "32",
+    "nom": "Gers",
+    "latitude": "43.6476621",
+    "longitude": "0.5851595"
+}, {
+    "numero": "33",
+    "nom": "Gironde",
+    "latitude": "44.8370040960394",
+    "longitude": "-0.573606491088867"
+}, {
+    "numero": "34",
+    "nom": "Hérault",
+    "latitude": "43.6035",
+    "longitude": "3.89005"
+}, {
+    "numero": "35",
+    "nom": "Ille-et-Vilaine",
+    "latitude": "48.1122",
+    "longitude": "-1.68484"
+}, {
+    "numero": "36",
+    "nom": "Indre",
+    "latitude": "46.8032",
+    "longitude": "1.69216"
+}, {
+    "numero": "37",
+    "nom": "Indre et Loire",
+    "latitude": "47.394144",
+    "longitude": "0.68484"
+}, {
+    "numero": "38",
+    "nom": "Isére",
+    "latitude": "45.190505973267285",
+    "longitude": "5.723018646240234"
+}, {
+    "numero": "39",
+    "nom": "Jura",
+    "latitude": "46.6757",
+    "longitude": "5.55707"
+}, {
+    "numero": "40",
+    "nom": "Landes",
+    "latitude": "43.8902",
+    "longitude": "-0.497476"
+}, {
+    "numero": "41",
+    "nom": "Loir et Cher",
+    "latitude": "47.5878732369346",
+    "longitude": "1.33209228515625"
+}, {
+    "numero": "42",
+    "nom": "Loire",
+    "latitude": "45.4506",
+    "longitude": "4.39117"
+}, {
+    "numero": "43",
+    "nom": "Loire (Haute)",
+    "latitude": "45.0437",
+    "longitude": "3.88525"
+}, {
+    "numero": "44",
+    "nom": "Loire Atlantique",
+    "latitude": "47.2193349301896",
+    "longitude": "-1.55662536621094"
+}, {
+    "numero": "45",
+    "nom": "Loiret",
+    "latitude": "47.9151",
+    "longitude": "1.91045"
+}, {
+    "numero": "46",
+    "nom": "Lot",
+    "latitude": "44.4464038650885",
+    "longitude": "1.439208984375"
+}, {
+    "numero": "47",
+    "nom": "Lot et Garonne",
+    "latitude": "44.2005434554308",
+    "longitude": "0.612144470214844"
+}, {
+    "numero": "48",
+    "nom": "Lozère",
+    "latitude": "44.518",
+    "longitude": "3.49853"
+}, {
+    "numero": "49",
+    "nom": "Maine et Loire",
+    "latitude": "47.478419",
+    "longitude": "-0.563166"
+}, {
+    "numero": "50",
+    "nom": "Manche",
+    "latitude": "49.1156 ",
+    "longitude": "-1.09008"
+}, {
+    "numero": "51",
+    "nom": "Marne",
+    "latitude": "48.9677",
+    "longitude": "4.37688"
+}, {
+    "numero": "52",
+    "nom": "Marne (Haute)",
+    "latitude": "48.1058",
+    "longitude": "5.13656"
+}, {
+    "numero": "53",
+    "nom": "Mayenne",
+    "latitude": "48.077505490644775",
+    "longitude": "-0.7693004608154297"
+}, {
+    "numero": "54",
+    "nom": "Meurthe et Moselle",
+    "latitude": "48.6872",
+    "longitude": "6.17265"
+}, {
+    "numero": "55",
+    "nom": "Meuse",
+    "latitude": "48.7737",
+    "longitude": "5.16058"
+}, {
+    "numero": "56",
+    "nom": "Morbihan",
+    "latitude": "47.6549032",
+    "longitude": "-2.7595206"
+}, {
+    "numero": "57",
+    "nom": "Moselle",
+    "latitude": "49.0985",
+    "longitude": "6.18396"
+}, {
+    "numero": "58",
+    "nom": "Nièvre",
+    "latitude": "46.9615",
+    "longitude": "3.18709"
+}, {
+    "numero": "59",
+    "nom": "Nord",
+    "latitude": "50.63100777457612",
+    "longitude": "3.0566883087158203"
+}, {
+    "numero": "60",
+    "nom": "Oise",
+    "latitude": "49.4257",
+    "longitude": "2.08178"
+}, {
+    "numero": "61",
+    "nom": "Orne",
+    "latitude": "48.4307",
+    "longitude": "0.083622"
+}, {
+    "numero": "62",
+    "nom": "Pas de Calais",
+    "latitude": "50.2899973067576",
+    "longitude": "2.78160095214844"
+}, {
+    "numero": "63",
+    "nom": "Puy de Dôme",
+    "latitude": "45.77943642262578",
+    "longitude": "3.0858707427978516"
+}, {
+    "numero": "64",
+    "nom": "Pyrénées Atlantiques",
+    "latitude": "43.2951",
+    "longitude": "-0.370797"
+}, {
+    "numero": "65",
+    "nom": "Pyrénées (Hautes)",
+    "latitude": "43.23476073581176",
+    "longitude": "0.07819175720214844"
+}, {
+    "numero": "66",
+    "nom": "Pyrénées Orientales",
+    "latitude": "42.7011",
+    "longitude": "2.9047"
+}, {
+    "numero": "67",
+    "nom": "Rhin (Bas)",
+    "latitude": "48.582853330736455",
+    "longitude": "7.752828598022461"
+}, {
+    "numero": "68",
+    "nom": "Rhin (Haut)",
+    "latitude": "48.0806788",
+    "longitude": "7.3599721"
+}, {
+    "numero": "69",
+    "nom": "Rhône",
+    "latitude": "45.768534",
+    "longitude": "4.850524"
+}, {
+    "numero": "70",
+    "nom": "Saône (Haute)",
+    "latitude": "47.6235",
+    "longitude": "6.1559"
+}, {
+    "numero": "71",
+    "nom": "Saône et Loire",
+    "latitude": "46.30415",
+    "longitude": "4.833486"
+}, {
+    "numero": "72",
+    "nom": "Sarthe",
+    "latitude": "48.0009",
+    "longitude": "0.158254"
+}, {
+    "numero": "73",
+    "nom": "Savoie",
+    "latitude": "45.5679",
+    "longitude": "5.92068"
+}, {
+    "numero": "74",
+    "nom": "Savoie (Haute)",
+    "latitude": "45.8999243494619",
+    "longitude": "6.12771034240723"
+}, {
+    "numero": "75",
+    "nom": "Paris",
+    "latitude": "48.85596226389365",
+    "longitude": "2.3558807373046875"
+}, {
+    "numero": "76",
+    "nom": "Seine Maritime",
+    "latitude": "49.4463",
+    "longitude": "1.09488"
+}, {
+    "numero": "77",
+    "nom": "Seine et Marne",
+    "latitude": "48.54070492314604",
+    "longitude": "2.654571533203125"
+}, {
+    "numero": "78",
+    "nom": "Yvelines",
+    "latitude": "48.8034716643831",
+    "longitude": "2.12757110595703"
+}, {
+    "numero": "79",
+    "nom": "Sèvres (Deux)",
+    "latitude": "46.3239",
+    "longitude": "-0.457583"
+}, {
+    "numero": "80",
+    "nom": "Somme",
+    "latitude": "49.8922014986114",
+    "longitude": "2.29373931884766"
+}, {
+    "numero": "81",
+    "nom": "Tarn",
+    "latitude": "43.9269536617531",
+    "longitude": "2.14868545532227"
+}, {
+    "numero": "82",
+    "nom": "Tarn et Garonne",
+    "latitude": "44.0212",
+    "longitude": "1.36568"
+}, {
+    "numero": "83",
+    "nom": "Var",
+    "latitude": "43.12341438373548",
+    "longitude": "5.9291839599609375"
+}, {
+    "numero": "84",
+    "nom": "Vaucluse",
+    "latitude": "43.9486126",
+    "longitude": "4.8059666"
+}, {
+    "numero": "85",
+    "nom": "Vendée",
+    "latitude": "46.6706429756028",
+    "longitude": "-1.4312267303466797"
+}, {
+    "numero": "86",
+    "nom": "Vienne",
+    "latitude": "46.5833",
+    "longitude": "0.370702"
+}, {
+    "numero": "87",
+    "nom": "Vienne (Haute)",
+    "latitude": "45.8232",
+    "longitude": "1.25352"
+}, {
+    "numero": "88",
+    "nom": "Vosges",
+    "latitude": "48.172402",
+    "longitude": "6.449403"
+}, {
+    "numero": "89",
+    "nom": "Yonne",
+    "latitude": "47.7982909",
+    "longitude": ""
+}, {
+    "numero": "90",
+    "nom": "Belfort (Territoire de)",
+    "latitude": "47.6441113460123",
+    "longitude": "6.86302185058594"
+}, {
+    "numero": "91",
+    "nom": "Essonne",
+    "latitude": "48.6295",
+    "longitude": ""
+}, {
+    "numero": "92",
+    "nom": "Hauts de Seine",
+    "latitude": "48.8977",
+    "longitude": "2.20173"
+}, {
+    "numero": "93",
+    "nom": "Seine Saint Denis",
+    "latitude": "48.9074",
+    "longitude": "2.44232"
+}, {
+    "numero": "94",
+    "nom": "Val de Marne",
+    "latitude": "48.7896759944119",
+    "longitude": "2.45201110839844"
+}, {
+    "numero": "976",
+    "nom": "Mayotte",
+    "latitude": "-12.780556",
+    "longitude": "45.227778"
+}, {
+    "numero": "971",
+    "nom": "Guadeloupe",
+    "latitude": "15.9996154893564",
+    "longitude": "-61.7224788665771"
+}, {
+    "numero": "973",
+    "nom": "Guyane",
+    "latitude": "4.9227",
+    "longitude": "-52.3269"
+}, {
+    "numero": "972",
+    "nom": "Martinique",
+    "latitude": "14.608584702403943",
+    "longitude": "-61.07119560241699"
+}, {
+    "numero": "2A",
+    "nom": "Corse du sud",
+    "latitude": "41.9191197",
+    "longitude": "8.7387831"
+}, {
+    "numero": "2B",
+    "nom": "Haute corse",
+    "latitude": "42.7021679",
+    "longitude": "9.4504773"
+}, {
+    "numero": "95",
+    "nom": "Val d'oise",
+    "latitude": "49.0333",
+    "longitude": "2.0667"
+}, {
+    "numero": "988",
+    "nom": "Nouvelle-Calédonie",
+    "latitude": "-22.2758",
+    "longitude": "166.458"
+}, {
+    "numero": "975",
+    "nom": "Saint-Pierre-et-Miquelon",
+    "latitude": "46.7803141",
+    "longitude": "-56.175327"
+}, {
+    "numero": "986",
+    "nom": "Wallis-et-Futuna",
+    "latitude": "-13.2825091 ",
+    "longitude": "-176.1764475"
+}, {
+    "numero": "987",
+    "nom": "Polynésie-Française",
+    "latitude": "-17.535022 ",
+    "longitude": "-149.5695"
+}]
