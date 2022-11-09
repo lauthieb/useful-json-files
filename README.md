@@ -1,2 +1,2 @@
-# practical-json-files
-A list of practical JSON files for everyone and every apps !
+# useful-json-files
+A list of useful JSON files for everyone and every apps !
